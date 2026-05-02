@@ -1,15 +1,23 @@
 # Ex.No: 03   COMPUTE THE AUTO FUNCTION(ACF)
-Date: 
-
+#### Date: 02/05/2026 
+### NAME : SANJAY C
+### REG NO : 212223240150
 ### AIM:
 To Compute the AutoCorrelation Function (ACF) of the data for the first 35 lags to determine the model
 type to fit the data.
+# REQUIREMENTS:
+```
+1.DATASET : APPLE STOCK PRICE
+2.TECHNOLOGY USED : GOOGLE COLLAB
+```
 ### ALGORITHM:
+```
 1. Import the necessary packages
 2. Find the mean, variance and then implement normalization for the data.
 3. Implement the correlation using necessary logic and obtain the results
 4. Store the results in an array
 5. Represent the result in graphical representation as given below.
+```
 ### PROGRAM:
 import matplotlib.pyplot as plt
 
